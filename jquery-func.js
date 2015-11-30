@@ -1,3 +1,4 @@
+//jquery-func.js uses carousel plugin for controlling images horizontally
 function mycarousel_initCallback(carousel) {
 	    $('.slider-navigation a').bind('click', function() {
 	        carousel.scroll($.jcarousel.intval($(this).text()));
