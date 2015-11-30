@@ -1,3 +1,5 @@
+//livesearch.js demonstartes web page communicating with a web server while a user type characters in search input field
+
 function showResult(str) 
 {
   if (str.length==0) { 
