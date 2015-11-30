@@ -1,4 +1,4 @@
-
+//faculty.js demonstrates AJAX web page  fetching  faculty data from an XML file with AJAX:
 function loadXMLDoc(url)
 {
 var xmlhttp;
