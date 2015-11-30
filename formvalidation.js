@@ -1,3 +1,5 @@
+//formvalidation.js validates student registration form
+
 function validateForm() {
     var x = document.forms["myFirstForm"]["firstname"].value;
     if (x.length < 6) {
